@@ -63,3 +63,4 @@ public/*
 config/*.js
 config/*.json
 !config/default.js
+lambda/
