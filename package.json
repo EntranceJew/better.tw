@@ -22,6 +22,7 @@
     "gifshot": "^0.4.5",
     "lodash": "^4.17.4",
     "marked": "^0.3.7",
+    "netlify-lambda": "^0.4.0",
     "query-string": "^5.1.0",
     "style-loader": "^0.19.1"
   },
