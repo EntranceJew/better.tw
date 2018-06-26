@@ -64,3 +64,4 @@ config/*.js
 config/*.json
 !config/default.js
 lambda/
+!/src/lambda/
